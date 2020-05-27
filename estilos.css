@@ -1,7 +1,9 @@
-#inicio
-{
-    background-color: #d2b2e8;
-    border:6px solid #000000;
+body{
+    background-color:#b200ff;
+}
+#inicio {
+    border: 6px solid #000000;
+    background-color: #ffd800;
     height: 20%;
 }
 #menu {
@@ -26,6 +28,6 @@
 #pie {
     border: 6px solid #000000;
     height:20%;
-    background-color: #000000;
+    background-color: #808080;
     clear:both;
 }
