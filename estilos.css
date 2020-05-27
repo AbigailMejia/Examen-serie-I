@@ -1,5 +1,11 @@
-body {
-    background-color: #FFA07A;
-    border: 6px solid #CD5C5C;
-    height:20%;
+#inicio
+{
+    background-color: peachpuff;
+    border:6px solid #000000;
+    height: 20%;
+}
+#menu {
+    border: 5px solid #000000;
+    height: 10%;
+    background-color:#00ffff;
 }
